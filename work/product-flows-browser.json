@@ -1,0 +1,9 @@
+{
+  "favorite": true,
+  "booking": true,
+  "cancellation": true,
+  "scorePersistence": true,
+  "failedSaveNoSuccess": true,
+  "accountIsolation": true,
+  "errors": []
+}

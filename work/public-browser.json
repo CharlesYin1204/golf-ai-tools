@@ -1,0 +1,7 @@
+{
+  "publicPages": 10,
+  "private401": true,
+  "loginReturnsToRound": true,
+  "logoutReturnsHome": true,
+  "errors": []
+}

@@ -1,0 +1,8 @@
+[Unit]
+Description=Renew Golfera short-lived IP TLS certificate
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/opt/gaoqiu-certbot/bin/certbot renew --cert-name gaoqiu-ip --quiet --no-random-sleep-on-renew --deploy-hook "/www/server/nginx/sbin/nginx -s reload"

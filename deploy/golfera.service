@@ -1,0 +1,22 @@
+[Unit]
+Description=Golfera mobile and product administration demo
+After=network.target mysqld.service
+
+[Service]
+Type=simple
+User=golfera
+Group=golfera
+WorkingDirectory=/www/wwwroot/gaoqiu
+EnvironmentFile=/etc/gaoqiu.env
+ExecStart=/www/wwwroot/gaoqiu/.venv/bin/python /www/wwwroot/gaoqiu/server.py
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/www/wwwroot/gaoqiu/data
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target

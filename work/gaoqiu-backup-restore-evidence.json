@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "backup": "/Users/mac/Documents/Codex/2026-10-12/ai/work/gaoqiu-production-backup.sql.gz",
+  "mysql_version": "5.7.24",
+  "table_count": 19,
+  "original_table_count": 18,
+  "original_rows": 444,
+  "counts": {
+    "app_meta": 1,
+    "admins": 1,
+    "sessions": 4,
+    "users": 42,
+    "visitors": 5,
+    "courses": 3,
+    "slots": 270,
+    "caddies": 6,
+    "orders": 23,
+    "rounds": 23,
+    "teams": 3,
+    "events": 3,
+    "registrations": 10,
+    "service_tickets": 4,
+    "bag_records": 8,
+    "lessons": 6,
+    "settings": 5,
+    "audit_logs": 27
+  },
+  "foreign_keys": 24,
+  "foreign_key_checks": 1,
+  "parent_delete_rejected": true,
+  "hashed_admins": 1,
+  "sample_order": {
+    "id": "GE1791807777782",
+    "status": "confirmed",
+    "checked": true,
+    "total": 1760.0
+  },
+  "restored_only_into_isolated_local_database": true,
+  "online_database_modified": false,
+  "created_test_databases_removed": true,
+  "local_mysql_shutdown_confirmed": true,
+  "only_system_databases_remaining_before_shutdown": true
+}

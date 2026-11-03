@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "home"
+    },
+    {
+      "width": 1440,
+      "route": "booking"
+    },
+    {
+      "width": 1440,
+      "route": "round"
+    },
+    {
+      "width": 1440,
+      "route": "newround"
+    },
+    {
+      "width": 1440,
+      "route": "history"
+    },
+    {
+      "width": 1440,
+      "route": "orders"
+    },
+    {
+      "width": 1440,
+      "route": "team"
+    },
+    {
+      "width": 1440,
+      "route": "event"
+    },
+    {
+      "width": 1440,
+      "route": "lessons"
+    },
+    {
+      "width": 1440,
+      "route": "ai"
+    },
+    {
+      "width": 1440,
+      "route": "me"
+    },
+    {
+      "width": 390,
+      "route": "home"
+    },
+    {
+      "width": 390,
+      "route": "booking"
+    },
+    {
+      "width": 390,
+      "route": "round"
+    },
+    {
+      "width": 390,
+      "route": "newround"
+    },
+    {
+      "width": 390,
+      "route": "history"
+    },
+    {
+      "width": 390,
+      "route": "orders"
+    },
+    {
+      "width": 390,
+      "route": "team"
+    },
+    {
+      "width": 390,
+      "route": "event"
+    },
+    {
+      "width": 390,
+      "route": "lessons"
+    },
+    {
+      "width": 390,
+      "route": "ai"
+    },
+    {
+      "width": 390,
+      "route": "me"
+    },
+    {
+      "admin": "dashboard"
+    },
+    {
+      "admin": "courses"
+    },
+    {
+      "admin": "users"
+    },
+    {
+      "admin": "orders"
+    },
+    {
+      "admin": "settings"
+    },
+    {
+      "admin": "accounts"
+    },
+    {
+      "admin": "ai_workbench"
+    }
+  ],
+  "errors": [],
+  "logout401": true,
+  "anonymousRedirect": true
+}

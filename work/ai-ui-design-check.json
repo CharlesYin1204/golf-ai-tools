@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "page": "models",
+      "w": 1440,
+      "overflow": false
+    },
+    {
+      "page": "knowledge",
+      "w": 1440,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "operations",
+      "w": 1440,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "schedule",
+      "w": 1440,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "review",
+      "w": 1440,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "w": 1440,
+      "editorOpen": true,
+      "title": "演示产品：弱网记分"
+    },
+    {
+      "w": 1440,
+      "scheduleRows": 2
+    },
+    {
+      "page": "models",
+      "w": 390,
+      "overflow": false
+    },
+    {
+      "page": "knowledge",
+      "w": 390,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "operations",
+      "w": 390,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "schedule",
+      "w": 390,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "page": "review",
+      "w": 390,
+      "visiblePanels": 1,
+      "overflow": false
+    },
+    {
+      "w": 390,
+      "editorOpen": true,
+      "title": "演示产品：弱网记分"
+    },
+    {
+      "w": 390,
+      "scheduleRows": 2
+    }
+  ],
+  "errors": []
+}

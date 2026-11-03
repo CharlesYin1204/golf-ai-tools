@@ -1,0 +1,16 @@
+[Unit]
+Description=Delete expired Golfera AI outputs
+After=golfera.service
+
+[Service]
+Type=oneshot
+User=golfera
+Group=golfera
+WorkingDirectory=/www/wwwroot/gaoqiu
+EnvironmentFile=/etc/gaoqiu.env
+ExecStart=/www/wwwroot/gaoqiu/.venv/bin/python /www/wwwroot/gaoqiu/ai_maintenance.py
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/www/wwwroot/gaoqiu/data
+UMask=0077

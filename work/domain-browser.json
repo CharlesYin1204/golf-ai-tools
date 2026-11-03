@@ -1,0 +1,8 @@
+{
+  "login": true,
+  "logout": true,
+  "admin": true,
+  "downloadPage": true,
+  "errors": [],
+  "ipRequests": []
+}

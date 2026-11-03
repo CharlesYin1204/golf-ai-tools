@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "document": {
+      "content": "<fragment mode=\"section\" requested-start=\"doxcn9OaNBV2exwuceBuc42AFpb\"><h1 id=\"doxcn9OaNBV2exwuceBuc42AFpb\" seq=\"auto\" seq-marker=\"11.\">AI增强的开发与评测要求</h1><table id=\"doxcnSyzTe8GysL7K7bGuzULCfg\"><colgroup><col/><col/><col/></colgroup><thead><tr><th vertical-align=\"top\"><p id=\"doxcn0EUDB5GCwpO0dBjnqV1s7d\">能力</p></th><th vertical-align=\"top\"><p id=\"doxcnae6eMUghFa6SbQOjVJQLsc\">输入及确定性处理</p></th><th vertical-align=\"top\"><p id=\"doxcnjwayah3OB7nrxtLM0hjcKf\">输出与拒绝条件</p></th></tr></thead><tbody><tr><td vertical-align=\"top\"><p id=\"doxcnGrqx1kxrmyEuRLXQN4cBuK\">知识客服</p></td><td vertical-align=\"top\"><p id=\"doxcnUteaSryyOGUZXuiqLyBxfh\">审核资料/适用范围/有效期/版本；权限过滤后检索，库存/费用由业务接口读取</p></td><td vertical-align=\"top\"><p id=\"doxcnoYDxDCLze5cTtvb3Vc95th\">回答附来源和更新时间；无依据或冲突资料说明未知/转人工；不得自动执行业务写入。</p></td></tr><tr><td vertical-align=\"top\"><p id=\"doxcnUcHZE0bDViSiusZBrRuYlg\">赛后复盘</p></td><td vertical-align=\"top\"><p id=\"doxcnx8nEztydxsJV7025DeXkIe\">确认成绩版本、真实Par，程序计算总杆/相对Par/波动洞；可选推杆和罚杆必须有真实记录</p></td><td vertical-align=\"top\"><p id=\"doxcnnQP74Wtx6iSW0Pmc8tkYqh\">解释亮点/波动/练习方向；无技术指标不给技术诊断；归档修订后旧报告标过期。</p></td></tr><tr><td vertical-align=\"top\"><p id=\"doxcnL1kiBqAA205IH8PGOXVJyc\">运营报告</p></td><td vertical-align=\"top\"><p id=\"doxcnqbWwBb68xTqmC1iuO2fUYb\">获权球场/时间范围、已核算指标及明细，排除模拟记录，程序返回指标值</p></td><td vertical-align=\"top\"><p id=\"doxcnyQmyn2FjFGsSuLZHOj39Lf\">数字能复算，相关性写可能检查项；无数据不造数，生成不触发调价/派单/退款。</p></td></tr><tr><td vertical-align=\"top\"><p id=\"doxcnrUC33tG1f86p5Tq0AiT6Ke\">异常建议/流程提醒</p></td><td vertical-align=\"top\"><p id=\"doxcn3Anbv7FpnqQhetQIB8saje\">任务/异常类型、审核操作手册、本人任务范围</p></td><td vertical-align=\"top\"><p id=\"doxcnOrp3WXzofYsKUcqbINLJMf\">建议与事实分开，主管自行处理；模型不会关闭异常或替代双签。</p></td></tr></tbody></table><p id=\"doxcnEu6Ux1MFv88sIKp0BAWqfd\">建议首批评测集至少100例，包含常见问题、无答案、过期/冲突资料、跨用户/球场越权、指令诱导和模型失败；样本数是建议质量门，不是已经执行的模型评测。关键金额/库存/成绩引用与程序数据必须100%一致，未授权资料泄漏0条；事实正确/有用率目标由试点负责人在服务商选型前确认。</p><p id=\"doxcnFqVMVOi8SpaWyPIFS4gjnd\">AI任务状态：queued→running→succeeded/failed；权限或资料未满足可blocked。设置超时、重试次数、费用限额、模型/提示词/知识版本和数据保留期。用户问题、录音、视频、原始资料的保存与删除策略开通前定版，不默认录音或对外发送全部个人记录。</p></fragment>",
+      "document_id": "JVNldMahfoLa5Px7AsEcnwFsnGh",
+      "revision_id": 22
+    }
+  }
+}

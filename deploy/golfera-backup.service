@@ -1,0 +1,16 @@
+[Unit]
+Description=Gaoqiu MySQL consistent daily backup
+After=network.target mysqld.service
+
+[Service]
+Type=oneshot
+User=golfera
+Group=golfera
+EnvironmentFile=/etc/gaoqiu.env
+ExecStart=/www/wwwroot/gaoqiu/.venv/bin/python /www/wwwroot/gaoqiu/deploy/backup_database.py
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/www/wwwroot/gaoqiu/data
+UMask=0077

@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily Gaoqiu database backup at 03:15
+
+[Timer]
+OnCalendar=*-*-* 03:15:00 Asia/Shanghai
+Persistent=true
+Unit=golfera-backup.service
+
+[Install]
+WantedBy=timers.target

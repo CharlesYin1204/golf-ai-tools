@@ -1,0 +1,1 @@
+{"integrity": "ok", "exact_tables": {"app_meta": 1, "admins": 1, "sessions": 4, "users": 42, "visitors": 5, "courses": 3, "slots": 270, "caddies": 6, "orders": 23, "rounds": 23, "teams": 3, "events": 3, "registrations": 10, "service_tickets": 4, "bag_records": 8, "lessons": 6, "settings": 5, "audit_logs": 27}, "admin_hash_unchanged": true}

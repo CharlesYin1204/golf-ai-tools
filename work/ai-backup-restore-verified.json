@@ -1,0 +1,17 @@
+{
+  "backup": "/www/wwwroot/gaoqiu/data/backups/gaoqiu-20261013-082144-065884.sql.gz",
+  "isolated_mysql": true,
+  "ai_tables": {
+    "ai_records": {
+      "count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "ai_daily_usage": {
+      "count": 1,
+      "sha256": "d7bf674e8cf1576f4f2bba7618fb1dff63fdaed65bbed88215a7b8249376a806"
+    }
+  },
+  "exact_match": true,
+  "mysql_regression_exit": 0,
+  "isolated_instance_stopped": true
+}

@@ -1,0 +1,1 @@
+{"before": [{"id": "GE-LIVE-QA-1791812086", "status": "cancelled", "checked": 0, "total": 880.0}, {"id": "GE1791807777782", "status": "confirmed", "checked": 1, "total": 1760.0}], "after": [{"id": "GE-LIVE-QA-1791812086", "status": "cancelled", "checked": 0, "total": 880.0}, {"id": "GE1791807777782", "status": "confirmed", "checked": 1, "total": 1760.0}], "equal": true}

@@ -1,0 +1,27 @@
+{
+  "backup": "/www/wwwroot/gaoqiu/data/backups/gaoqiu-20261013-010043-064446.sql.gz",
+  "tables": [
+    "_write_guard",
+    "admins",
+    "ai_daily_usage",
+    "ai_records",
+    "app_meta",
+    "audit_logs",
+    "bag_records",
+    "caddies",
+    "courses",
+    "events",
+    "lessons",
+    "orders",
+    "registrations",
+    "rounds",
+    "service_tickets",
+    "sessions",
+    "settings",
+    "slots",
+    "teams",
+    "users",
+    "visitors"
+  ],
+  "ai_tables_present": true
+}

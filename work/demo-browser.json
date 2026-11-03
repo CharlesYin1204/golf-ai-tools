@@ -1,0 +1,176 @@
+{
+  "lessonCount": 25,
+  "results": [
+    {
+      "width": 390,
+      "route": "home"
+    },
+    {
+      "width": 390,
+      "route": "booking"
+    },
+    {
+      "width": 390,
+      "route": "course/DEMO_C01"
+    },
+    {
+      "width": 390,
+      "route": "lessons"
+    },
+    {
+      "width": 390,
+      "route": "lesson/DEMO_LESSON_01"
+    },
+    {
+      "width": 390,
+      "route": "team"
+    },
+    {
+      "width": 390,
+      "route": "event"
+    },
+    {
+      "width": 390,
+      "route": "orders"
+    },
+    {
+      "width": 390,
+      "route": "order/DEMO_ORDER001"
+    },
+    {
+      "width": 390,
+      "route": "round"
+    },
+    {
+      "width": 390,
+      "route": "score"
+    },
+    {
+      "width": 390,
+      "route": "report"
+    },
+    {
+      "width": 390,
+      "route": "history"
+    },
+    {
+      "width": 390,
+      "route": "newround"
+    },
+    {
+      "width": 390,
+      "route": "ai"
+    },
+    {
+      "width": 390,
+      "route": "me"
+    },
+    {
+      "width": 1440,
+      "route": "home"
+    },
+    {
+      "width": 1440,
+      "route": "booking"
+    },
+    {
+      "width": 1440,
+      "route": "course/DEMO_C01"
+    },
+    {
+      "width": 1440,
+      "route": "lessons"
+    },
+    {
+      "width": 1440,
+      "route": "lesson/DEMO_LESSON_01"
+    },
+    {
+      "width": 1440,
+      "route": "team"
+    },
+    {
+      "width": 1440,
+      "route": "event"
+    },
+    {
+      "width": 1440,
+      "route": "orders"
+    },
+    {
+      "width": 1440,
+      "route": "order/DEMO_ORDER001"
+    },
+    {
+      "width": 1440,
+      "route": "round"
+    },
+    {
+      "width": 1440,
+      "route": "score"
+    },
+    {
+      "width": 1440,
+      "route": "report"
+    },
+    {
+      "width": 1440,
+      "route": "history"
+    },
+    {
+      "width": 1440,
+      "route": "newround"
+    },
+    {
+      "width": 1440,
+      "route": "ai"
+    },
+    {
+      "width": 1440,
+      "route": "me"
+    },
+    {
+      "admin": "dashboard"
+    },
+    {
+      "admin": "courses"
+    },
+    {
+      "admin": "slots"
+    },
+    {
+      "admin": "orders"
+    },
+    {
+      "admin": "rounds"
+    },
+    {
+      "admin": "users"
+    },
+    {
+      "admin": "caddies"
+    },
+    {
+      "admin": "teams"
+    },
+    {
+      "admin": "events"
+    },
+    {
+      "admin": "registrations"
+    },
+    {
+      "admin": "service_tickets"
+    },
+    {
+      "admin": "bag_records"
+    },
+    {
+      "admin": "lessons"
+    },
+    {
+      "admin": "ai_workbench"
+    }
+  ],
+  "errors": []
+}

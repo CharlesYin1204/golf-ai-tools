@@ -1,0 +1,12 @@
+{
+  "limits": {
+    "daily": "100",
+    "output": "1600"
+  },
+  "scheduleAdded": 2,
+  "scheduleRemoved": 1,
+  "secureContext": true,
+  "transcription": "本都無憑!本都無憑!",
+  "cancelledWithoutMutation": true,
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "results": [
+    {
+      "route": "dashboard",
+      "heading": "运营总览",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "courses",
+      "heading": "球场管理",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "slots",
+      "heading": "时段库存",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "users",
+      "heading": "用户管理",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "caddies",
+      "heading": "球童与排班",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "orders",
+      "heading": "预约订单",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "rounds",
+      "heading": "球局成绩",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "teams",
+      "heading": "球队管理",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "events",
+      "heading": "活动赛事",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "registrations",
+      "heading": "活动报名",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "service_tickets",
+      "heading": "服务异常",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "bag_records",
+      "heading": "球包交接",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "lessons",
+      "heading": "教学内容",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "audit_logs",
+      "heading": "操作审计",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "ai",
+      "heading": "AI模型",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "ai_workbench",
+      "heading": "AI工作台",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "settings",
+      "heading": "系统设置",
+      "overflow": false,
+      "error": 0
+    },
+    {
+      "route": "mobile-dashboard",
+      "overflow": false
+    },
+    {
+      "route": "mobile-orders",
+      "overflow": false
+    },
+    {
+      "route": "mobile-ai",
+      "overflow": false
+    },
+    {
+      "route": "mobile-ai_workbench",
+      "overflow": false
+    },
+    {
+      "mobileMenu": true
+    }
+  ],
+  "errors": []
+}
