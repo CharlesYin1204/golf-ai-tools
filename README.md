@@ -14,8 +14,6 @@
 
 ![高尔夫AI工具电脑端首页](outputs/ui-desktop.png)
 
-![高尔夫AI工具 AI 工作台](outputs/ai-workbench-https.png)
-
 ![高尔夫AI工具运营后台](outputs/ui-admin.png)
 
 ## 技术架构
