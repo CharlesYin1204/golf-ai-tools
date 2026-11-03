@@ -2,9 +2,9 @@
 
 ## 已完成的资料分析
 
-根据高球时代的飞书资料，梳理公司与产品、核心功能、优化建议、新增功能和 AI 方向。文档中区分原资料事实、截图观察和建议。
+根据高尔夫AI工具的飞书资料，梳理公司与产品、核心功能、优化建议、新增功能和 AI 方向。文档中区分原资料事实、截图观察和建议。
 
-正式分析文档：[高球时代｜产品信息梳理、核心功能与优化迭代建议](https://kkcym7x9wb.feishu.cn/docx/StQYdsJDUoaq9fxu6LHcEqH1nsf)。原始资料：[公司与产品信息](https://kkcym7x9wb.feishu.cn/wiki/IJvxwtIVKixAHfk6CUMcdiAunng)。
+正式分析文档：[高尔夫AI工具｜产品信息梳理、核心功能与优化迭代建议](https://kkcym7x9wb.feishu.cn/docx/StQYdsJDUoaq9fxu6LHcEqH1nsf)。原始资料：[公司与产品信息](https://kkcym7x9wb.feishu.cn/wiki/IJvxwtIVKixAHfk6CUMcdiAunng)。
 
 ## 当前目标：移动端可交互演示网站
 

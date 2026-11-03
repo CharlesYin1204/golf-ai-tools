@@ -2,7 +2,7 @@
 
 ## 产品分析文档
 
-[高球时代产品分析文档](https://kkcym7x9wb.feishu.cn/docx/StQYdsJDUoaq9fxu6LHcEqH1nsf)已经创建并回读验证。阅读顺序建议为：优先建议 → 产品矩阵 → 核心功能 → 优化与新增功能 → AI 方向 → 阶段计划和指标。
+[高尔夫AI工具产品分析文档](https://kkcym7x9wb.feishu.cn/docx/StQYdsJDUoaq9fxu6LHcEqH1nsf)已经创建并回读验证。阅读顺序建议为：优先建议 → 产品矩阵 → 核心功能 → 优化与新增功能 → AI 方向 → 阶段计划和指标。
 
 ## 移动端原型的使用方式
 

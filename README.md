@@ -1,6 +1,6 @@
-# 高球时代
+# 高尔夫AI工具
 
-高球时代是一套覆盖球友、球童、球场和运营人员的高尔夫业务平台，将球场时段、预约订单、球局成绩、球队活动、球童服务、教学内容和 AI 复盘连接到统一系统中。
+高尔夫AI工具是一套覆盖球友、球童、球场和运营人员的高尔夫业务平台，将球场时段、预约订单、球局成绩、球队活动、球童服务、教学内容和 AI 复盘连接到统一系统中。
 
 ## 核心能力
 
@@ -12,11 +12,11 @@
 
 ## 产品界面
 
-![高球时代电脑端首页](outputs/ui-desktop.png)
+![高尔夫AI工具电脑端首页](outputs/ui-desktop.png)
 
-![高球时代 AI 工作台](outputs/ai-workbench-https.png)
+![高尔夫AI工具 AI 工作台](outputs/ai-workbench-https.png)
 
-![高球时代运营后台](outputs/ui-admin.png)
+![高尔夫AI工具运营后台](outputs/ui-admin.png)
 
 ## 技术架构
 

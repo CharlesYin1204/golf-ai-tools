@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""高球时代演示服务：SQLite 或 MySQL 保存前后台业务记录。
+"""高尔夫AI工具演示服务：SQLite 或 MySQL 保存前后台业务记录。
 
 运行：GOLFERA_ADMIN_PASSWORD='set-a-strong-password' python3 server.py
 MySQL：GOLFERA_DB_TYPE=mysql，连接配置见 mysql_config_from_env；需要 PyMySQL。
@@ -271,7 +271,7 @@ class Database:
                 if self.test_fixtures and not conn.execute("SELECT 1 FROM app_meta WHERE key='initial_seed'").fetchone():
                     self.seed(conn)
                     conn.execute("INSERT INTO app_meta(key,value) VALUES('initial_seed','1')")
-                for key,value in {"site_name":"高球时代","city":"","support_phone":"","opening_time":""}.items():
+                for key,value in {"site_name":"高尔夫AI工具","city":"","support_phone":"","opening_time":""}.items():
                     conn.execute("INSERT OR IGNORE INTO settings(key,value,updated_at) VALUES(?,?,?)",(key,value,now()))
         if self.path:
             os.chmod(self.path, 0o600)
@@ -390,7 +390,7 @@ class Database:
         ]
         for ident,title,category,duration,coach,description,steps in lessons:
             self.insert(conn, "lessons", dict(id=ident,title=title,category=category,duration=duration,coach=coach,description=description,steps=steps,status="published"), ignore=True)
-        settings = {"site_name":"高球时代", "city":"上海", "support_phone":"400-000-0000（模拟）", "demo_notice":"本系统为可交互演示，数据库记录及运营资料均为模拟，不连接真实预订或支付；AI功能使用后台配置的真实模型。", "opening_time":"07:00—18:30"}
+        settings = {"site_name":"高尔夫AI工具", "city":"上海", "support_phone":"400-000-0000（模拟）", "demo_notice":"本系统为可交互演示，数据库记录及运营资料均为模拟，不连接真实预订或支付；AI功能使用后台配置的真实模型。", "opening_time":"07:00—18:30"}
         for key,value in settings.items():
             conn.execute("INSERT OR IGNORE INTO settings(key,value,updated_at) VALUES(?,?,?)", (key,value,now()))
         return conn.total_changes - before
@@ -1352,7 +1352,7 @@ def main():
     host=os.environ.get("HOST","0.0.0.0")
     port=int(os.environ.get("PORT","8787"))
     server=GolfServer((host,port),database,os.environ.get("GOLFERA_STATIC_DIR",str(BASE/"dist")))
-    LOG.info("高球时代演示服务启动，地址 %s:%s；使用 %s 持久化。",host,port,database.backend)
+    LOG.info("高尔夫AI工具演示服务启动，地址 %s:%s；使用 %s 持久化。",host,port,database.backend)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
