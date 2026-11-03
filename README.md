@@ -98,3 +98,13 @@ python tests/backend_test.py
 ## 联系方式
 
 微信：`charlesyin6015`
+
+## 开源与二次开发
+
+本项目采用 [MIT License](LICENSE) 开源。你可以点击 GitHub 页面右上角的 **Fork** 创建自己的副本，也可以克隆后创建新分支进行修改：
+
+```bash
+git checkout -b feature/my-change
+```
+
+请勿提交 `.env`、数据库备份、用户数据或任何真实密钥；部署前请根据 `.env.example` 创建自己的环境配置。
