@@ -20,5 +20,7 @@ data/ai-config.json
 .DS_Store
 draft_*_folder/
 private/
+project-docs/
+产品设计需求文档/
 AI模型相关文件和数据.txt
 data/user-login-delivery.json
